@@ -1,0 +1,6 @@
+{
+  "name": "AI Waste Reporter & Monitor",
+  "description": "AI-powered waste reporting, hotspot tracking, recycling analysis, and ecological assistant for sustainable communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
